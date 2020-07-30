@@ -1,4 +1,5 @@
 ### Hi there, I'm Prabhu 👋
+<img align="right" alt="prabhuSub | GitHib Avatar" width="400" height="400" src="./octocat_formal.png" />
 
 ## I'm a Student, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
@@ -6,7 +7,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums. Also play computer Games.
 
-<img align="left" alt="prabhuSub | Twitter" width="22px" src="./octocat_formal.png" />
+
 
 
 ### Connect with me:
