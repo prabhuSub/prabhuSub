@@ -1,5 +1,5 @@
 ### Hi there, I'm Prabhu 👋
-<img align="right" alt="prabhuSub | GitHib Avatar" width="400" height="400" src="./octocat_formal.png" />
+<img align="right" alt="prabhuSub | GitHib Avatar" width="400" height="400" src="https://github.com/prabhuSub/prabhuSub/blob/master/octocat_formal.png" />
 
 ## I'm a Student, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
