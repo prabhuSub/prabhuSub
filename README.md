@@ -2,10 +2,11 @@
 <img align="right" alt="prabhuSub | GitHib Avatar" width="300" height="300" src="https://github.com/prabhuSub/prabhuSub/blob/master/octocat_formal.png" />
 
 ## I'm a Student, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on a researching on building Evaluation System for Interpretable Models, followed by a pipeline. 
+- Working on projects for developing  - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai]!
+- 🌱 I’m currently learning Cloud Engineering to enable myself as a Data Engineer 👨‍💻
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums. Also play computer Games.
+- ⚡ Fun fact: I love to draw and play guitar / drums. Also play Computer Games.
 
 
 
@@ -40,3 +41,5 @@
 [twitter]: https://twitter.com/prabhus165
 [instagram]: https://instagram.com/prabhs_silver
 [linkedin]: https://linkedin.com/in/prabhu-subramanian
+[Wrod2Vec Visualization]: http://projector.tensorflow.org/
+[Squark.ai]: https://squarkai.com/
