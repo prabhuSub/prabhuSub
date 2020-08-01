@@ -27,8 +27,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/43825167/89093531-551a7900-d389-11ea-91b5-4ff49f8051dd.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/43825167/89093488-fa811d00-d388-11ea-921f-50ec6661c4c2.png" />
+<img align="left" alt="MySQL" width="29px" src="https://user-images.githubusercontent.com/43825167/89093531-551a7900-d389-11ea-91b5-4ff49f8051dd.png" />
+<img align="left" alt="MongoDB" width="29px" src="https://user-images.githubusercontent.com/43825167/89093488-fa811d00-d388-11ea-921f-50ec6661c4c2.png" />
 <img align="left" alt="Postgress" width="26px" src="https://user-images.githubusercontent.com/43825167/89092161-5a71c680-d37d-11ea-8188-fce897a0182d.png" />
 <img align="left" alt="Oracle" width="26px" src="https://user-images.githubusercontent.com/43825167/89093552-8b57f880-d389-11ea-9a70-5d9384ec5da2.png" />
 
@@ -37,9 +37,12 @@
 ### Tools:
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://user-images.githubusercontent.com/43825167/89091464-fe587380-d377-11ea-9c3b-f4487dd34bdb.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/43825167/89092545-d0c3f800-d380-11ea-8b66-e806db30d83d.png" />
+<img align="left" alt="Docker" width="29px" src="https://user-images.githubusercontent.com/43825167/89092545-d0c3f800-d380-11ea-8b66-e806db30d83d.png" />
+<img align="left" alt="Terraform" width="26px" src="https://user-images.githubusercontent.com/43825167/89093765-40d77b80-d38b-11ea-83b9-342ec21617da.png" />
+<img align="left" alt="Flask" width="26px" src="https://user-images.githubusercontent.com/43825167/89093879-0f12e480-d38c-11ea-91f2-cb4b76268827.png" />
+<img align="left" alt="Jenkins" width="23px" src="https://user-images.githubusercontent.com/43825167/89093912-526d5300-d38c-11ea-8292-f3975005a616.png" />
 
 <br />
 
