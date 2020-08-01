@@ -27,10 +27,10 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/43825167/89093531-551a7900-d389-11ea-91b5-4ff49f8051dd.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/43825167/89093488-fa811d00-d388-11ea-921f-50ec6661c4c2.png" />
 <img align="left" alt="Postgress" width="26px" src="https://user-images.githubusercontent.com/43825167/89092161-5a71c680-d37d-11ea-8188-fce897a0182d.png" />
-<img align="left" alt="Oracle" width="26px" src="https://user-images.githubusercontent.com/43825167/89092240-f1d71980-d37d-11ea-8015-d10a05516ab0.png" />
+<img align="left" alt="Oracle" width="26px" src="https://user-images.githubusercontent.com/43825167/89093552-8b57f880-d389-11ea-9a70-5d9384ec5da2.png" />
 
 <br />
 
