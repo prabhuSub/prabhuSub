@@ -19,7 +19,7 @@
 [<img align="left" alt="prabhuSub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<img width="300px" align="right" alt="codeSTACKr's Github Stats" src="https://camo.githubusercontent.com/f991b3432f988f2fe400e8134cdbeccc72d3e668/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646576706f73742f696d6167652f66657463682f732d2d3373526c393931582d2d2f68747470733a2f2f6769746875622e636f6d2f6e70656e7472656c2f6f63746f636c697070792f626c6f622f6d61737465722f676966732f74656e7461636c65732e67696625334672617725334474727565" />
+<img width="300px" align="right" alt="Coder" src="https://www.scrapinghub.com/wp-content/uploads/2019/10/product-data-animation_3.gif" />
 
 ### Languages:
 
