@@ -19,7 +19,7 @@
 [<img align="left" alt="prabhuSub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<img width="300px" align="right" alt="Coder" src="https://www.scrapinghub.com/wp-content/uploads/2019/10/product-data-animation_3.gif" />
+<img width="270px" align="right" alt="Coder" src="https://www.scrapinghub.com/wp-content/uploads/2019/10/product-data-animation_3.gif" />
 
 ### Languages:
 
