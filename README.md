@@ -52,7 +52,7 @@
 <br />
 
 ---
-<img width="400px" align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhuSub&show_icons=true&hide_border=true" />
+<img width="440px" align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhuSub&show_icons=true&hide_border=true" />
 <img align="right" alt="codeSTACKr's Github programs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuSub&layout=compact&count_private=true" />
 
 
