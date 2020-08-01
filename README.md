@@ -29,6 +29,9 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Postgress" width="26px" src="https://user-images.githubusercontent.com/43825167/89092161-5a71c680-d37d-11ea-8188-fce897a0182d.png" />
+<img align="left" alt="Oracle" width="26px" src="https://user-images.githubusercontent.com/43825167/89092240-f1d71980-d37d-11ea-8015-d10a05516ab0.png" />
+<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/43825167/89092249-0ca98e00-d37e-11ea-90d8-fbefe4fd1fc1.png" />
 
 <br />
 
@@ -36,7 +39,15 @@
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://user-images.githubusercontent.com/43825167/89091464-fe587380-d377-11ea-9c3b-f4487dd34bdb.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/43825167/89092220-d23ff100-d37d-11ea-97b3-71c7ad7a3fbc.png" />
+<img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/43825167/89092545-d0c3f800-d380-11ea-8b66-e806db30d83d.png" />
+
+<br />
+
+
+### ETL Tools:
+<img align="left" alt="alteryx" width="26px" src="https://user-images.githubusercontent.com/43825167/89092465-fc92ae00-d37f-11ea-9ed3-8e8c29731b7b.png" />
+<img align="left" alt="Talend" width="26px" src="https://user-images.githubusercontent.com/43825167/89092491-38c60e80-d380-11ea-92e5-f3fe93938e12.png" />
 
 <br />
 <br />
