@@ -1,5 +1,4 @@
-### Hi there, 👋
-### Hi there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Prabhu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+### Hi there, I'm Prabhu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align="right" alt="prabhuSub | GitHib Avatar" width="300" height="300" src="https://user-images.githubusercontent.com/43825167/89090795-2f827500-d373-11ea-8f61-9b5b38e24636.png" />
 
