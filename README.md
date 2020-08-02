@@ -53,7 +53,7 @@
 <br />
 
 ### ETL Tools:
-<img align="left" alt="alteryx" width="29px" src="https://user-images.githubusercontent.com/43825167/89092465-fc92ae00-d37f-11ea-9ed3-8e8c29731b7b.png" />
+<img align="left" alt="alteryx" width="34px" src="https://user-images.githubusercontent.com/43825167/89130031-e8f65d00-d4cf-11ea-8ed5-12e08da4f577.png" />
 <img align="left" alt="Talend" width="24px" src="https://user-images.githubusercontent.com/43825167/89092491-38c60e80-d380-11ea-92e5-f3fe93938e12.png" />
 
 
