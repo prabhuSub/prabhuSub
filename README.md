@@ -1,6 +1,6 @@
 ### Hi there, I'm Prabhu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="prabhuSub | GitHib Avatar" width="300" height="300" src="https://user-images.githubusercontent.com/43825167/89090795-2f827500-d373-11ea-8f61-9b5b38e24636.png" />
+<img width="270px" align="right" alt="Coder" src="https://www.scrapinghub.com/wp-content/uploads/2019/10/product-data-animation_3.gif" />
 
 ## I'm a Student, Developer, and Teacher!
 - 🔭 I’m currently working on a research. Writing book on [An Evaluation System for Interpretable Models].📚
@@ -19,7 +19,7 @@
 [<img align="left" alt="prabhuSub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<img width="270px" align="right" alt="Coder" src="https://www.scrapinghub.com/wp-content/uploads/2019/10/product-data-animation_3.gif" />
+<img align="right" alt="prabhuSub | GitHib Avatar" width="300" height="300" src="https://user-images.githubusercontent.com/43825167/89090795-2f827500-d373-11ea-8f61-9b5b38e24636.png" />
 
 ### Languages:
 
