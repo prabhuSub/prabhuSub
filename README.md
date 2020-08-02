@@ -19,7 +19,7 @@
 [<img align="left" alt="prabhuSub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<img align="right" alt="prabhuSub | GitHib Avatar" width="300" height="300" src="https://user-images.githubusercontent.com/43825167/89090795-2f827500-d373-11ea-8f61-9b5b38e24636.png" />
+<img align="right" alt="prabhuSub | GitHib Avatar" width="280" height="280" src="https://user-images.githubusercontent.com/43825167/89090795-2f827500-d373-11ea-8f61-9b5b38e24636.png" />
 
 ### Languages:
 
