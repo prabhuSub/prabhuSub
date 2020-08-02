@@ -33,6 +33,7 @@
 ### Tools:
 <img align="left" alt="Jupyter Notebook" width="28px" src="https://user-images.githubusercontent.com/43825167/89091464-fe587380-d377-11ea-9c3b-f4487dd34bdb.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="PyCharm" width="28px" src="https://user-images.githubusercontent.com/43825167/89129815-805ab080-d4ce-11ea-8a5e-a359a4c64195.png" />
 <img align="left" alt="Git" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="29px" src="https://user-images.githubusercontent.com/43825167/89092545-d0c3f800-d380-11ea-8b66-e806db30d83d.png" />
@@ -42,10 +43,17 @@
 
 <br />
 
+### Cloud Engineering:
+<img align="left" alt="alteryx" width="26px" src="https://user-images.githubusercontent.com/43825167/89129745-c19e9080-d4cd-11ea-8ced-53520586e6fb.png" />
+<img align="left" alt="alteryx" width="26px" src="https://user-images.githubusercontent.com/43825167/89129758-e09d2280-d4cd-11ea-981f-7b1f4241ad06.png" />
+<img align="left" alt="alteryx" width="28px" src="https://user-images.githubusercontent.com/43825167/89129789-45587d00-d4ce-11ea-97ae-b4fcfe681713.png" />
+
+<br />
 
 ### ETL Tools:
 <img align="left" alt="alteryx" width="26px" src="https://user-images.githubusercontent.com/43825167/89092465-fc92ae00-d37f-11ea-9ed3-8e8c29731b7b.png" />
 <img align="left" alt="Talend" width="26px" src="https://user-images.githubusercontent.com/43825167/89092491-38c60e80-d380-11ea-92e5-f3fe93938e12.png" />
+
 
 <br />
 <br />
