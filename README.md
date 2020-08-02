@@ -35,6 +35,8 @@
 <img align="left" alt="Jupyter Notebook" width="28px" src="https://user-images.githubusercontent.com/43825167/89091464-fe587380-d377-11ea-9c3b-f4487dd34bdb.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="PyCharm" width="28px" src="https://user-images.githubusercontent.com/43825167/89129815-805ab080-d4ce-11ea-8a5e-a359a4c64195.png" />
+<img align="left" alt="Putty" width="26px" src="https://user-images.githubusercontent.com/43825167/89130236-2c050000-d4d1-11ea-852e-d7609a9f681b.png" />
+<img align="left" alt="Mobaxterm" width="26px" src="https://user-images.githubusercontent.com/43825167/89130255-5fe02580-d4d1-11ea-99ff-022114c4fe55.png" />
 <img align="left" alt="Git" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="29px" src="https://user-images.githubusercontent.com/43825167/89092545-d0c3f800-d380-11ea-8b66-e806db30d83d.png" />
