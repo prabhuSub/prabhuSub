@@ -22,10 +22,10 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="29px" src="https://user-images.githubusercontent.com/43825167/89093531-551a7900-d389-11ea-91b5-4ff49f8051dd.png" />
-<img align="left" alt="MongoDB" width="29px" src="https://user-images.githubusercontent.com/43825167/89093488-fa811d00-d388-11ea-921f-50ec6661c4c2.png" />
-<img align="left" alt="Postgress" width="26px" src="https://user-images.githubusercontent.com/43825167/89092161-5a71c680-d37d-11ea-8188-fce897a0182d.png" />
+<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="30px" src="https://user-images.githubusercontent.com/43825167/89093531-551a7900-d389-11ea-91b5-4ff49f8051dd.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://user-images.githubusercontent.com/43825167/89093488-fa811d00-d388-11ea-921f-50ec6661c4c2.png" />
+<img align="left" alt="Postgress" width="24px" src="https://user-images.githubusercontent.com/43825167/89092161-5a71c680-d37d-11ea-8188-fce897a0182d.png" />
 <img align="left" alt="Oracle" width="26px" src="https://user-images.githubusercontent.com/43825167/89093552-8b57f880-d389-11ea-9a70-5d9384ec5da2.png" />
 
 <br />
@@ -39,20 +39,22 @@
 <img align="left" alt="Docker" width="29px" src="https://user-images.githubusercontent.com/43825167/89092545-d0c3f800-d380-11ea-8b66-e806db30d83d.png" />
 <img align="left" alt="Terraform" width="26px" src="https://user-images.githubusercontent.com/43825167/89093765-40d77b80-d38b-11ea-83b9-342ec21617da.png" />
 <img align="left" alt="Flask" width="26px" src="https://user-images.githubusercontent.com/43825167/89093879-0f12e480-d38c-11ea-91f2-cb4b76268827.png" />
-<img align="left" alt="Jenkins" width="23px" src="https://user-images.githubusercontent.com/43825167/89093912-526d5300-d38c-11ea-8292-f3975005a616.png" />
+<img align="left" alt="Jenkins" width="20px" src="https://user-images.githubusercontent.com/43825167/89093912-526d5300-d38c-11ea-8292-f3975005a616.png" />
+<img align="left" alt="Snowflake" width="26px" src="https://user-images.githubusercontent.com/43825167/89129933-4342ee00-d4cf-11ea-90ec-e99b49c6df73.png" />
+<img align="left" alt="Terradata" width="65px" src="https://user-images.githubusercontent.com/43825167/89130006-b8162800-d4cf-11ea-9a7a-53742182f970.png" />
 
 <br />
 
 ### Cloud Engineering:
-<img align="left" alt="alteryx" width="26px" src="https://user-images.githubusercontent.com/43825167/89129745-c19e9080-d4cd-11ea-8ced-53520586e6fb.png" />
-<img align="left" alt="alteryx" width="26px" src="https://user-images.githubusercontent.com/43825167/89129758-e09d2280-d4cd-11ea-981f-7b1f4241ad06.png" />
-<img align="left" alt="alteryx" width="28px" src="https://user-images.githubusercontent.com/43825167/89129789-45587d00-d4ce-11ea-97ae-b4fcfe681713.png" />
+<img align="left" alt="aws" width="26px" src="https://user-images.githubusercontent.com/43825167/89129745-c19e9080-d4cd-11ea-8ced-53520586e6fb.png" />
+<img align="left" alt="gcp" width="26px" src="https://user-images.githubusercontent.com/43825167/89129758-e09d2280-d4cd-11ea-981f-7b1f4241ad06.png" />
+<img align="left" alt="azure" width="28px" src="https://user-images.githubusercontent.com/43825167/89129789-45587d00-d4ce-11ea-97ae-b4fcfe681713.png" />
 
 <br />
 
 ### ETL Tools:
-<img align="left" alt="alteryx" width="26px" src="https://user-images.githubusercontent.com/43825167/89092465-fc92ae00-d37f-11ea-9ed3-8e8c29731b7b.png" />
-<img align="left" alt="Talend" width="26px" src="https://user-images.githubusercontent.com/43825167/89092491-38c60e80-d380-11ea-92e5-f3fe93938e12.png" />
+<img align="left" alt="alteryx" width="29px" src="https://user-images.githubusercontent.com/43825167/89092465-fc92ae00-d37f-11ea-9ed3-8e8c29731b7b.png" />
+<img align="left" alt="Talend" width="24px" src="https://user-images.githubusercontent.com/43825167/89092491-38c60e80-d380-11ea-92e5-f3fe93938e12.png" />
 
 
 <br />
