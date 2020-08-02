@@ -1,15 +1,11 @@
 ### Hi there, I'm Prabhu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img width="270px" align="right" alt="Coder" src="https://www.scrapinghub.com/wp-content/uploads/2019/10/product-data-animation_3.gif" />
-
 ## I'm a Student, Developer, and Teacher!
 - 🔭 I’m currently working on a research. Writing book on [An Evaluation System for Interpretable Models].📚
 - Working on projects - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai]!📊
 - 🌱 I’m currently learning Cloud Engineering to enable myself as a Data Engineer 👨‍💻
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums. Also play Computer Games.
-
-
 
 
 ### Connect with me:
@@ -19,7 +15,6 @@
 [<img align="left" alt="prabhuSub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<img align="right" alt="prabhuSub | GitHib Avatar" width="280" height="280" src="https://user-images.githubusercontent.com/43825167/89090795-2f827500-d373-11ea-8f61-9b5b38e24636.png" />
 
 ### Languages:
 
