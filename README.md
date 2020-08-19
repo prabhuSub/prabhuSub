@@ -69,9 +69,6 @@
 
 <img width="440px" align="left" alt="prabhuSub Github Stats" src="https://github-readme-stats.prabhusub.vercel.app/api?username=prabhuSub&show_icons=true&hide_border=true" />
 
-<img align="right" alt="prabhuSub Github programs" src="https://github-readme-stats.prabhusub.vercel.app/api/top-langs/?username=prabhuSub&layout=compact&count_private=true" />
-
-
 ---
 
 <!--START_SECTION:activity-->
@@ -81,6 +78,14 @@
 4. 💪 Opened PR [#1](https://github.com//GraceRuisiGu/An-Evaluation-System-for-Interpretable-Machine-Learning/pull/1) in [GraceRuisiGu/An-Evaluation-System-for-Interpretable-Machine-Learning](https://github.com//GraceRuisiGu/An-Evaluation-System-for-Interpretable-Machine-Learning)
 5. 🎉 Merged PR [#15](https://github.com//prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning/pull/15) in [prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning](https://github.com//prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning)
 <!--END_SECTION:activity-->
+
+---
+
+<img align="right" alt="prabhuSub Github programs" src="https://github-readme-stats.prabhusub.vercel.app/api/top-langs/?username=prabhuSub&layout=compact&count_private=true" />
+
+---
+
+
 
 [twitter]: https://twitter.com/prabhus165
 [instagram]: https://instagram.com/prabhs_silver
