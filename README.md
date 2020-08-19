@@ -65,7 +65,10 @@
 <br />
 <br />
 
-  
+---
+
+### Last activity
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#18](https://github.com//prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning/pull/18) in [prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning](https://github.com//prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning)
 2. 🎉 Merged PR [#17](https://github.com//prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning/pull/17) in [prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning](https://github.com//prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning)
