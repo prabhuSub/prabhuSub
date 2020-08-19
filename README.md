@@ -71,6 +71,10 @@
 
 <img align="right" alt="prabhuSub Github programs" src="https://github-readme-stats.prabhusub.vercel.app/api/top-langs/?username=prabhuSub&layout=compact&count_private=true" />
 
+---
+
+<!--START_SECTION:activity-->
+
 [twitter]: https://twitter.com/prabhus165
 [instagram]: https://instagram.com/prabhs_silver
 [linkedin]: https://linkedin.com/in/prabhu-subramanian
