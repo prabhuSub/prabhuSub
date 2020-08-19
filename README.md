@@ -67,19 +67,19 @@
 
 ---
 
---<details>
---  <summary>:zap: GitHub stats </summary>
+<!--- <details>
+--<summary>:zap: GitHub stats </summary>
 
-  <img width="440px" align="left" alt="prabhuSub Github Stats" src="https://github-readme-stats.prabhusub.vercel.app/api?username=prabhuSub&show_icons=true&hide_border=true" />
+<img width="440px" align="left" alt="prabhuSub Github Stats" src="https://github-readme-stats.prabhusub.vercel.app/api?username=prabhuSub&show_icons=true&hide_border=true" />
 
---</details>
+<!--- </details>
 
---<details>
+<!--- <details>
  -- <summary>:zap: Languages used </summary>
 
   <img align="right" alt="prabhuSub Github programs" src="https://github-readme-stats.prabhusub.vercel.app/api/top-langs/?username=prabhuSub&layout=compact&count_private=true" />
 
---</details>
+<!--- </details>
 
 [twitter]: https://twitter.com/prabhus165
 [instagram]: https://instagram.com/prabhs_silver
