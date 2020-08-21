@@ -1,6 +1,6 @@
 ### Hi there, I'm Prabhu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-![GitHub followers](https://img.shields.io/github/followers/prabhuSub?style=social)
+![GitHub followers](https://img.shields.io/github/followers/prabhuSub?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/prabhuSub/GitHub-Workshop)
 ![GitHub stars](https://img.shields.io/github/stars/prabhuSub/GitHub-Workshop?style=flat)
 
