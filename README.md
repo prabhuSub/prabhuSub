@@ -1,5 +1,7 @@
 ### Hi there, I'm Prabhu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+![GitHub followers](https://img.shields.io/github/followers/prabhuSub?label=Follow&style=social)
+
 ## I'm a Student, Developer, and Teacher!
 - 🔭 I’m currently working on a research. Writing book on [An Evaluation System for Interpretable Models].📚
 - 💻 Working on projects - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai] 📊
