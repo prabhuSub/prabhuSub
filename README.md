@@ -9,7 +9,7 @@
 - 💻 Working on projects - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai] 📊
 - 🌱 I’m currently learning Cloud Engineering to enable myself as a Data Engineer 👨‍💻
 - 🥅 2020 Goals: Contribute more to the Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums. Also play Computer Games.
+- ⚡ Fun fact: I love to draw and play guitar/drums. Also play Computer Games.
 
 
 ### Connect with me:
