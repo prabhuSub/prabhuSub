@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/prabhuSub/GitHub-Workshop)
 ![GitHub stars](https://img.shields.io/github/stars/prabhuSub/GitHub-Workshop?style=flat)
 
-## I'm a Student, Developer, and a Teacher by heart!
+## I'm a Student, Developer, and a Teacher by Heart!
 - 🔭 I’m currently working on a research. Writing book on [An Evaluation System for Interpretable Models].📚
 - 💻 Working on projects - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai] 📊
 - 🌱 I’m currently learning Cloud Engineering to enable myself as a Data Engineer 👨‍💻
