@@ -1,8 +1,8 @@
 ### Hi there, I'm Prabhu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-![GitHub followers](https://img.shields.io/github/followers/prabhuSub?color=green&style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/prabhuSub/GitHub-Workshop?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/prabhuSub/GitHub-Workshop?color=velvet&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/prabhuSub?color=velvet&style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/prabhuSub/GitHub-Workshop?color=blue&style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/prabhuSub/GitHub-Workshop?color=yellow&style=flat-square)
 
 ## I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫!
 - 🔭 I’m currently working on a research. Writing book on [An Evaluation System for Interpretable Models].📚
