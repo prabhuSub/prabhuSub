@@ -1,7 +1,7 @@
 ### Hi there, I'm Prabhu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-![GitHub followers](https://img.shields.io/github/followers/prabhuSub?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/prabhuSub/GitHub-Workshop?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/prabhuSub?color=green&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/prabhuSub/GitHub-Workshop?color=violet&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/prabhuSub/GitHub-Workshop?style=for-the-badge)
 
 ## I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫!
