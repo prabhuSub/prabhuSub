@@ -18,6 +18,7 @@
 [<img align="left" alt="prabhuSub | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="prabhuSub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="prabhuSub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="prabhuSub | DEV" width="22px" src="https://user-images.githubusercontent.com/43825167/94376726-67dfce80-00ea-11eb-84c4-4a0c1496cec9.png" />][DEV]
 
 <br />
 
@@ -99,6 +100,7 @@
 [twitter]: https://twitter.com/prabhus165
 [instagram]: https://instagram.com/prabhs_silver
 [linkedin]: https://linkedin.com/in/prabhu-subramanian
+[DEV]: https://dev.to/prabhusub
 [Wrod2Vec Visualization]: http://projector.tensorflow.org/
 [Squark.ai]: https://squarkai.com/
 [An Evaluation System for Interpretable Models]: https://app.gitbook.com/@subramanian-pr/s/research-paper/@drafts
