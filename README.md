@@ -3,6 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/prabhuSub?color=velvet&style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/prabhuSub/GitHub-Workshop?color=blue&style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/prabhuSub/GitHub-Workshop?color=yellow&style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=prabhuSub.vistorsBadge)
 
 ## I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫!
 - 🔭 I’m currently working on a research. Writing book on [An Evaluation System for Interpretable Models].📚
