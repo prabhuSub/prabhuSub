@@ -1,7 +1,5 @@
 ### Hi there, I'm Prabhu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="prabhuSub | profile_pic" width="300px" src="https://user-images.githubusercontent.com/43825167/95817321-20af2b80-0cef-11eb-8dc2-b73b700eb013.png" />
-
 ![GitHub followers](https://img.shields.io/github/followers/prabhuSub?color=velvet&style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/prabhuSub/GitHub-Workshop?color=blue&style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/prabhuSub/GitHub-Workshop?color=yellow&style=flat-square)
@@ -14,6 +12,7 @@
 - 🥅 2020 Goals: Contribute more to the Open Source projects
 - ⚡ Fun fact: I love to draw and play Guitar, and play Computer Games. Once was a dancer and a Basket Ball Player.
 
+<img align="right" alt="prabhuSub | profile_pic" width="300px" src="https://user-images.githubusercontent.com/43825167/95817321-20af2b80-0cef-11eb-8dc2-b73b700eb013.png" />
 
 ### Connect with me:
 
