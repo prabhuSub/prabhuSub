@@ -6,8 +6,8 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=prabhuSub.vistorsBadge)
 
 ## I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫!
-- 🔭 I’m currently working on a research. Writing book on [An Evaluation System for Interpretable Models].📚
 - 💻 Working on projects - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai] 📊
+- 🔭 Done writing a book on [An Evaluation System for Interpretable Models].📚
 - 🌱 I’m currently learning Cloud Engineering to enable myself as a Data Engineer 👨‍💻
 - 🥅 2020 Goals: Contribute more to the Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar/drums. Also play Computer Games.
