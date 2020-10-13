@@ -13,7 +13,7 @@
 - 🔭 Done writing a book on [An Evaluation System for Interpretable Models].📚
 - 🌱 I’m currently learning Cloud Engineering to enable myself as a Data Engineer 👨‍💻
 - 🥅 2020 Goals: Contribute more to the Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar/drums. Also play Computer Games.
+- ⚡ Fun fact: I love to draw and play Guitar, and play Computer Games. Once was a dancer and a Basket Ball Player.
 
 
 ### Connect with me:
