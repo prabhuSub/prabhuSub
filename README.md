@@ -6,7 +6,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=prabhuSub.vistorsBadge)
 
 
-## I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫! <img align="right" alt="prabhuSub | profile_pic" width="100px" src="https://user-images.githubusercontent.com/43825167/95817321-20af2b80-0cef-11eb-8dc2-b73b700eb013.png" />
+## I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫! <img align="right" alt="prabhuSub | profile_pic" width="300px" src="https://user-images.githubusercontent.com/43825167/95817321-20af2b80-0cef-11eb-8dc2-b73b700eb013.png" />
 
 - 💻 Working on projects - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai] 📊
 - 🔭 Done writing a book on [An Evaluation System for Interpretable Models].📚
