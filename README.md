@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/prabhuSub/GitHub-Workshop?color=yellow&style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=prabhuSub.vistorsBadge)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prabhuSub)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=prabhuSub)
 
 ## I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫! <img align="right" alt="prabhuSub | profile_pic" width="300px" src="https://user-images.githubusercontent.com/43825167/95817321-20af2b80-0cef-11eb-8dc2-b73b700eb013.png" />
 
