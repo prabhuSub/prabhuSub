@@ -5,6 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/prabhuSub/GitHub-Workshop?color=yellow&style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=prabhuSub.vistorsBadge)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=prabhuSub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫! <img align="right" alt="prabhuSub | profile_pic" width="300px" src="https://user-images.githubusercontent.com/43825167/95817321-20af2b80-0cef-11eb-8dc2-b73b700eb013.png" />
 
@@ -73,6 +74,14 @@
 <br />
 <br />
 
+
+---
+
+<img width="440px" align="left" alt="prabhuSub Github Stats" src="https://github-readme-stats.prabhusub.vercel.app/api?username=prabhuSub&show_icons=true&hide_border=true" />
+
+<img align="right" alt="prabhuSub Github programs" src="https://github-readme-stats.prabhusub.vercel.app/api/top-langs/?username=prabhuSub&layout=compact&count_private=true" />
+
+
 ---
 
 <details>
@@ -91,12 +100,6 @@
 </details>
 
 </br>
-
----
-
-<img width="440px" align="left" alt="prabhuSub Github Stats" src="https://github-readme-stats.prabhusub.vercel.app/api?username=prabhuSub&show_icons=true&hide_border=true" />
-
-<img align="right" alt="prabhuSub Github programs" src="https://github-readme-stats.prabhusub.vercel.app/api/top-langs/?username=prabhuSub&layout=compact&count_private=true" />
 
 
 [twitter]: https://twitter.com/prabhus165
