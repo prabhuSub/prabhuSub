@@ -5,8 +5,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/prabhuSub/GitHub-Workshop?color=yellow&style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=prabhuSub.vistorsBadge)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=prabhuSub)
-
 ## I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫! <img align="right" alt="prabhuSub | profile_pic" width="300px" src="https://user-images.githubusercontent.com/43825167/95817321-20af2b80-0cef-11eb-8dc2-b73b700eb013.png" />
 
 - 💻 Working on projects - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai] 📊
@@ -81,9 +79,11 @@
 
 <img alt="prabhuSub Github programs" src="https://github-readme-stats.prabhusub.vercel.app/api/top-langs/?username=prabhuSub&layout=compact&count_private=true" />
 
-
 ---
 
+![trophy](https://github-profile-trophy.vercel.app/?username=prabhuSub)
+
+---
 <details>
   <summary>:zap: Recent Github Activity</summary>
 
