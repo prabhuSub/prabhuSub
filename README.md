@@ -92,9 +92,9 @@
 ### Last activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#248](https://github.com/powerline/fonts/issues/248) in [powerline/fonts](https://github.com/powerline/fonts)
-2. 🎉 Merged PR [#18](https://github.com/prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning/pull/18) in [prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning](https://github.com/prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning)
-3. 🎉 Merged PR [#17](https://github.com/prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning/pull/17) in [prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning](https://github.com/prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning)
+1. 🗣 Commented on [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
+2. ❗️ Opened issue [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
+3. 🗣 Commented on [#248](https://github.com/powerline/fonts/issues/248) in [powerline/fonts](https://github.com/powerline/fonts)
 4. 🎉 Merged PR [#16](https://github.com/prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning/pull/16) in [prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning](https://github.com/prabhuSub/An-Evaluation-System-for-Interpretable-Machine-Learning)
 5. 💪 Opened PR [#1](https://github.com/GraceRuisiGu/An-Evaluation-System-for-Interpretable-Machine-Learning/pull/1) in [GraceRuisiGu/An-Evaluation-System-for-Interpretable-Machine-Learning](https://github.com/GraceRuisiGu/An-Evaluation-System-for-Interpretable-Machine-Learning)
 <!--END_SECTION:activity-->
