@@ -97,9 +97,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
 2. 🗣 Commented on [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
-3. ❗️ Opened issue [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
-4. 🗣 Commented on [#248](https://github.com/powerline/fonts/issues/248) in [powerline/fonts](https://github.com/powerline/fonts)
-5. 💪 Opened PR [#1](https://github.com/GraceRuisiGu/An-Evaluation-System-for-Interpretable-Machine-Learning/pull/1) in [GraceRuisiGu/An-Evaluation-System-for-Interpretable-Machine-Learning](https://github.com/GraceRuisiGu/An-Evaluation-System-for-Interpretable-Machine-Learning)
+3. 🗣 Commented on [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
+4. ❗️ Opened issue [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
+5. 🗣 Commented on [#248](https://github.com/powerline/fonts/issues/248) in [powerline/fonts](https://github.com/powerline/fonts)
 <!--END_SECTION:activity-->
 
 <!---
