@@ -86,8 +86,11 @@
 </p>
 
 ---
+
+<!---
 <details>
   <summary>:zap: Recent Github Activity</summary>
+-->
 
 ### Last activity
 
@@ -99,7 +102,9 @@
 5. 💪 Opened PR [#1](https://github.com/GraceRuisiGu/An-Evaluation-System-for-Interpretable-Machine-Learning/pull/1) in [GraceRuisiGu/An-Evaluation-System-for-Interpretable-Machine-Learning](https://github.com/GraceRuisiGu/An-Evaluation-System-for-Interpretable-Machine-Learning)
 <!--END_SECTION:activity-->
 
+<!---
 </details>
+-->
 
 </br>
 
