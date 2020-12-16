@@ -95,11 +95,6 @@
 ### Last activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#588](https://github.com/minio/minio-js/issues/588) in [minio/minio-js](https://github.com/minio/minio-js)
-2. 🗣 Commented on [#10](https://github.com/itayhubara/BinaryNet.tf/issues/10) in [itayhubara/BinaryNet.tf](https://github.com/itayhubara/BinaryNet.tf)
-3. 🗣 Commented on [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
-4. 🗣 Commented on [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
-5. 🗣 Commented on [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
 <!--END_SECTION:activity-->
 
 <!---
