@@ -95,7 +95,7 @@
 ### Last activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/jamesgeorge007/github-activity-readme/issues/42) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#1](https://github.com/prabhuSub/cookiecutter-squark/pull/1) in [prabhuSub/cookiecutter-squark](https://github.com/prabhuSub/cookiecutter-squark)
 2. 🗣 Commented on [#588](https://github.com/minio/minio-js/issues/588) in [minio/minio-js](https://github.com/minio/minio-js)
 3. 🗣 Commented on [#10](https://github.com/itayhubara/BinaryNet.tf/issues/10) in [itayhubara/BinaryNet.tf](https://github.com/itayhubara/BinaryNet.tf)
 4. 🗣 Commented on [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
