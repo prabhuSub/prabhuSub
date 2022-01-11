@@ -74,6 +74,10 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuSub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=prabhuSub&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
