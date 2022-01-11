@@ -72,13 +72,6 @@
 <br />
 <br />
 
-
----
-
-<img width="440px" align="left" alt="prabhuSub Github Stats" src="https://github-readme-stats.prabhusub.vercel.app/api?username=prabhuSub&show_icons=true&hide_border=true" />
-
-<img alt="prabhuSub Github programs" src="https://github-readme-stats.prabhusub.vercel.app/api/top-langs/?username=prabhuSub&layout=compact&count_private=true" />
-
 ---
 
 <p align="center">
