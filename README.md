@@ -7,12 +7,12 @@
 
 ## I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫! <img align="right" alt="prabhuSub | profile_pic" width="300px" src="https://user-images.githubusercontent.com/43825167/95817321-20af2b80-0cef-11eb-8dc2-b73b700eb013.png" />
 
-- 💻 Working as Business Inteligence & tools Analyst at Levi Strauss & Co.
-- 💻 Working on projects - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai] 📊
-- 🔭 Done writing a book on [An Evaluation System for Interpretable Models].📚
-- 🌱 I’m currently learning Cloud Engineering to enable myself as a Data Engineer 👨‍💻
-- 🥅 2020 Goals: Contribute more to the Open Source projects
-- ⚡ Fun fact: I love to draw and play Guitar, and play Computer Games. Once was a dancer and a Basket Ball player.
+- 💻 Currently Job: **Business Inteligence & tools Analyst (Data Analyst) at Levi Strauss & Co.**
+- 💻 Working on research projects - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai] 📊
+- 🔭 Done writing a book on [An Evaluation System for Interpretable Models]📚
+- 🌱 I’m currently learning Cloud Engineering to enable myself as an Export Data Engineer 👨‍💻
+- 🥅 2022 Goals: Contribute more to the Open Source projects
+- ⚡ Fun fact: I love to draw and play Guitar, and Computer Games. Once was a dancer and a Basket Ball champ.
 
 
 ### Connect with me:
