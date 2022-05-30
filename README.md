@@ -7,7 +7,7 @@
 
 ## I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫! <img align="right" alt="prabhuSub | profile_pic" width="300px" src="https://user-images.githubusercontent.com/43825167/95817321-20af2b80-0cef-11eb-8dc2-b73b700eb013.png" />
 
-- 🌐 A **website about me**(developed from scratch) - [http://prabhuresume.com/]
+- 🌐 A **website about me**(developed from scratch) - [http://prabhuresume.com/] ![website status](https://img.shields.io/website?color=green&down_color=lightgrey&down_message=offline&style=flat-square&up_color=blue&up_message=online&url=http%3A%2F%2Fprabhuresume.com%2F)
 - 💻 Currently Job: **Business Inteligence & tools Analyst (Data Analyst) at Levi Strauss & Co.**
 - 💻 Working on research projects - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai] 📊
 - 🔭 Done writing a book on [An Evaluation System for Interpretable Models]📚
