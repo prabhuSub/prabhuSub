@@ -1,3 +1,5 @@
+
+[![Update README](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml/badge.svg)](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml)
 ### Hi there, I'm Prabhu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ![GitHub followers](https://img.shields.io/github/followers/prabhuSub?color=velvet&style=flat-square)
