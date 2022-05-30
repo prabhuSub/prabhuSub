@@ -96,14 +96,14 @@
 ### Last activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/prabhuSub/cookiecutter-squark/pull/1) in [prabhuSub/cookiecutter-squark](https://github.com/prabhuSub/cookiecutter-squark)
-2. 🗣 Commented on [#588](https://github.com/minio/minio-js/issues/588) in [minio/minio-js](https://github.com/minio/minio-js)
-3. 🗣 Commented on [#10](https://github.com/itayhubara/BinaryNet.tf/issues/10) in [itayhubara/BinaryNet.tf](https://github.com/itayhubara/BinaryNet.tf)
-4. 🗣 Commented on [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
-5. 🗣 Commented on [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
-6. 🗣 Commented on [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
-7. ❗️ Opened issue [#1042](https://github.com/minio/minio-py/issues/1042) in [minio/minio-py](https://github.com/minio/minio-py)
-8. 🗣 Commented on [#248](https://github.com/powerline/fonts/issues/248) in [powerline/fonts](https://github.com/powerline/fonts)
+1. 🗣 Commented on [#57](https://github.com/logandk/serverless-wsgi/issues/57) in [logandk/serverless-wsgi](https://github.com/logandk/serverless-wsgi)
+2. 🎉 Merged PR [#2](https://github.com/prabhuSub/flask-app-resume-web/pull/2) in [prabhuSub/flask-app-resume-web](https://github.com/prabhuSub/flask-app-resume-web)
+3. 💪 Opened PR [#2](https://github.com/prabhuSub/flask-app-resume-web/pull/2) in [prabhuSub/flask-app-resume-web](https://github.com/prabhuSub/flask-app-resume-web)
+4. 🎉 Merged PR [#1](https://github.com/prabhuSub/flask-app-resume-web/pull/1) in [prabhuSub/flask-app-resume-web](https://github.com/prabhuSub/flask-app-resume-web)
+5. ❌ Reopened PR [#1](https://github.com/prabhuSub/flask-app-resume-web/pull/1) in [prabhuSub/flask-app-resume-web](https://github.com/prabhuSub/flask-app-resume-web)
+6. ❌ Closed PR [#1](https://github.com/prabhuSub/flask-app-resume-web/pull/1) in [prabhuSub/flask-app-resume-web](https://github.com/prabhuSub/flask-app-resume-web)
+7. 💪 Opened PR [#1](https://github.com/prabhuSub/flask-app-resume-web/pull/1) in [prabhuSub/flask-app-resume-web](https://github.com/prabhuSub/flask-app-resume-web)
+8. 🎉 Merged PR [#2](https://github.com/prabhuSub/website-flask-aws-v2/pull/2) in [prabhuSub/website-flask-aws-v2](https://github.com/prabhuSub/website-flask-aws-v2)
 <!--END_SECTION:activity-->
 
 <!---
