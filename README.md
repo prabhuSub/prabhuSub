@@ -96,8 +96,8 @@
 ### Last activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/chanon-kr/Shared_Function/issues/1) in [chanon-kr/Shared_Function](https://github.com/chanon-kr/Shared_Function)
-2. 🗣 Commented on [#1](https://github.com/chanon-kr/Shared_Function/issues/1) in [chanon-kr/Shared_Function](https://github.com/chanon-kr/Shared_Function)
+1. 🎉 Merged PR [#2](https://github.com/prabhuSub/cookiecutter-squark/pull/2) in [prabhuSub/cookiecutter-squark](https://github.com/prabhuSub/cookiecutter-squark)
+2. 🎉 Merged PR [#3](https://github.com/prabhuSub/cookiecutter-squark/pull/3) in [prabhuSub/cookiecutter-squark](https://github.com/prabhuSub/cookiecutter-squark)
 3. 🗣 Commented on [#271](https://github.com/vgrem/Office365-REST-Python-Client/issues/271) in [vgrem/Office365-REST-Python-Client](https://github.com/vgrem/Office365-REST-Python-Client)
 4. ❗️ Opened issue [#1](https://github.com/chanon-kr/Shared_Function/issues/1) in [chanon-kr/Shared_Function](https://github.com/chanon-kr/Shared_Function)
 5. 🗣 Commented on [#57](https://github.com/logandk/serverless-wsgi/issues/57) in [logandk/serverless-wsgi](https://github.com/logandk/serverless-wsgi)
