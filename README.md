@@ -78,17 +78,20 @@
 <img align="left" alt="alteryx" width="34px" src="https://user-images.githubusercontent.com/43825167/89130031-e8f65d00-d4cf-11ea-8ed5-12e08da4f577.png" />
 <img align="left" alt="Talend" width="24px" src="https://user-images.githubusercontent.com/43825167/89092491-38c60e80-d380-11ea-92e5-f3fe93938e12.png" />
 
-
 <br />
 
 ---
-
-<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuSub&layout=compact" /><img  align="right" width="420px" src="https://github-readme-stats.vercel.app/api?username=prabhuSub&show_icons=true&theme=Gradient" />
 
 <p align="center">
 <img align="center" width="750px" src="https://github-profile-trophy.vercel.app/?username=prabhuSub&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
+---
+<p align="center">
+<img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuSub&layout=compact" />
+<img align="center"  width="420px" src="https://github-readme-stats.vercel.app/api?username=prabhuSub&show_icons=true&theme=Gradient" />
+</p>
+ 
 ---
 
 <!---
