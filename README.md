@@ -83,12 +83,18 @@
 
 ---
 
-<img align="left" height="200px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuSub&layout=compact" />
-<img align="right" height="250px" width="400px" src="https://github-readme-stats.vercel.app/api?username=prabhuSub&show_icons=true" />
+<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuSub&layout=compact" /><img  align="right" width="480px" src="https://github-readme-stats.vercel.app/api?username=prabhuSub&show_icons=true&theme=Gradient" />
+
+<br />
+
+---
+
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=prabhuSub&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+<img align="center" width="850px" src="https://github-profile-trophy.vercel.app/?username=prabhuSub&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
+
+<br />
 
 ---
 
