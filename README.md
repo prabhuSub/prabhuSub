@@ -80,16 +80,14 @@
 
 
 <br />
-<br />
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuSub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
+<img align="left" height="200px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuSub&layout=compact" />
+<img align="right" height="250px" width="400px" src="https://github-readme-stats.vercel.app/api?username=prabhuSub&show_icons=true" />
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=prabhuSub&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+ <img src="https://github-profile-trophy.vercel.app/?username=prabhuSub&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
