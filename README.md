@@ -1,13 +1,19 @@
 
 ### Hi there, I'm Prabhu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">
 
+
 ![GitHub followers](https://img.shields.io/github/followers/prabhuSub?color=velvet&style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/prabhuSub/GitHub-Workshop?color=blue&style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/prabhuSub/GitHub-Workshop?color=yellow&style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=prabhuSub.vistorsBadge)
 [![Update README](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml/badge.svg)](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml)
 
-## I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫! <img align="right" alt="prabhuSub | profile_pic" width="300px" src="https://user-images.githubusercontent.com/43825167/95817321-20af2b80-0cef-11eb-8dc2-b73b700eb013.png" />
+### I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫!
+--------------------------------------------------------------------------------------
+<!-- <img align="right" alt="prabhuSub | profile_pic" width="300px" src="https://user-images.githubusercontent.com/43825167/95817321-20af2b80-0cef-11eb-8dc2-b73b700eb013.png" />
+ -->
+ 
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/43825167/203897718-047074bf-d937-41f3-9310-100c2062610e.PNG" />
 
 - 🌐 Checkout my **website**(developed from scratch) - [http://prabhuresume.com/] ![website status](https://img.shields.io/website?color=green&down_color=lightgrey&down_message=offline&style=flat-square&up_color=blue&up_message=online&url=http%3A%2F%2Fprabhuresume.com%2F)
 - 💻 Currently Job: **Business Inteligence & tools Analyst (Data Analyst) at Levi Strauss & Co.**
