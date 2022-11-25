@@ -89,8 +89,6 @@
 <img align="center" width="750px" src="https://github-profile-trophy.vercel.app/?username=prabhuSub&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-<br />
-
 ---
 
 <!---
