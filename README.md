@@ -83,7 +83,7 @@
 
 ---
 
-<img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuSub&layout=compact" /><img  align="right" width="480px" src="https://github-readme-stats.vercel.app/api?username=prabhuSub&show_icons=true&theme=Gradient" />
+<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuSub&layout=compact" /><img  align="right" width="480px" src="https://github-readme-stats.vercel.app/api?username=prabhuSub&show_icons=true&theme=Gradient" />
 
 <br />
 
