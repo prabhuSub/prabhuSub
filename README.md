@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/prabhuSub/GitHub-Workshop?color=blue&style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/prabhuSub/GitHub-Workshop?color=yellow&style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=prabhuSub.vistorsBadge)
-[![Update README](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml/badge.svg)](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml)
+<!-- [![Update README](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml/badge.svg)](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml) -->
 
 ### I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫!
 --------------------------------------------------------------------------------------
