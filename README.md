@@ -120,7 +120,7 @@
 
 
 [twitter]: https://twitter.com/prabhus165
-[instagram]: https://instagram.com/prabhs_silver
+[instagram]: https://instagram.com/prabhu.s.view
 [linkedin]: https://linkedin.com/in/prabhu-subramanian
 [DEV]: https://dev.to/prabhusub
 [Wrod2Vec Visualization]: http://projector.tensorflow.org/
