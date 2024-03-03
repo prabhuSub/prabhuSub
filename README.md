@@ -14,8 +14,8 @@
  
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/43825167/203897718-047074bf-d937-41f3-9310-100c2062610e.PNG" />
 
-- 🌐 Checkout my **portfolio website**
-  [http://prabhuresume.com/] ![website status](https://img.shields.io/website?color=green&down_color=lightgrey&down_message=offline&style=flat-square&up_color=blue&up_message=online&url=http%3A%2F%2Fprabhuresume.com%2F)
+- ![website status](https://img.shields.io/website?color=green&down_color=lightgrey&down_message=offline&style=flat-square&up_color=blue&up_message=online&url=http%3A%2F%2Fprabhuresume.com%2F) 🌐 Checkout my **portfolio website**
+  [http://prabhuresume.com/]
 - 💻 Currently Job: **Data Analyst | Data Engineer at Levi Strauss & Co.**
 - 💻 Working on research projects - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai] 📊
 - 🔭 Done writing a book on [An Evaluation System for Interpretable Models]📚
