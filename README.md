@@ -16,11 +16,11 @@
 
 - 🌐 Checkout my **portfolio website**
   [http://prabhuresume.com/] ![website status](https://img.shields.io/website?color=green&down_color=lightgrey&down_message=offline&style=flat-square&up_color=blue&up_message=online&url=http%3A%2F%2Fprabhuresume.com%2F)
-- 💻 Currently Job: **Business Inteligence & tools Analyst (Data Analyst) at Levi Strauss & Co.**
+- 💻 Currently Job: **Data Analyst | Data Engineer at Levi Strauss & Co.**
 - 💻 Working on research projects - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai] 📊
 - 🔭 Done writing a book on [An Evaluation System for Interpretable Models]📚
 - 🌱 I’m currently learning Cloud Engineering to enable myself as an Export Data Engineer 👨‍💻
-- 🥅 2022 Goals: Contribute more to the Open Source projects
+- 🥅 2024 Goals: Contribute more to the Open Source projects
 - ⚡ Fun fact: I love to draw and play Guitar, and Computer Games. Once was a dancer and a Basket Ball champ.
 
 
