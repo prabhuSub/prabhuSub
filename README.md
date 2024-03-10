@@ -19,11 +19,11 @@
 - ![Website](https://img.shields.io/website?url=http%3A%2F%2Fprabhu-resume.s3-website-us-east-1.amazonaws.com%2F) 🌐 Also checkout my **3D Scrolling Website**
   [3D Scrolling Website | WebGL](http://prabhu-resume.s3-website-us-east-1.amazonaws.com/)
 - 💻 Currently Job: **Data Analyst | Data Engineer at Levi Strauss & Co.**
-- 💻 Working on research projects - Sampling theorem, [Wrod2Vec Visualization], and multiprocessing Partial Dependency Plot for [Squark.ai] 📊
-- 🔭 Done writing a book on [An Evaluation System for Interpretable Models]📚
 - 🌱 I’m currently learning Cloud Engineering to enable myself as an Export Data Engineer 👨‍💻
 - 🥅 2024 Goals: Contribute more to the Open Source projects
 - ⚡ Fun fact: I love to draw and play Guitar, and Computer Games. Once was a dancer and a Basket Ball champ.
+- 🔭 Done writing a book on [An Evaluation System for Interpretable Models]📚
+- 💻 Recently worked on research projects for [Squark.ai] 📊
 
 
 ### Connect with me:
