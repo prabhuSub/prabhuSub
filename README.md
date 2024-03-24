@@ -75,6 +75,8 @@
 <img align="left" alt="aws" width="30px" src="https://user-images.githubusercontent.com/43825167/89129745-c19e9080-d4cd-11ea-8ced-53520586e6fb.png" />
 <img align="left" alt="gcp" width="26px" src="https://user-images.githubusercontent.com/43825167/89129758-e09d2280-d4cd-11ea-981f-7b1f4241ad06.png" />
 <img align="left" alt="azure" width="30px" src="https://user-images.githubusercontent.com/43825167/89129789-45587d00-d4ce-11ea-97ae-b4fcfe681713.png" />
+<img align="left" alt="azure" width="26px" src="https://github.com/prabhuSub/prabhuSub/assets/43825167/fd664760-c482-4e15-bd2f-b67b8cb7d16f" />
+
 
 <br />
 
