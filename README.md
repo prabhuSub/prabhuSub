@@ -5,7 +5,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/prabhuSub?color=velvet&style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/prabhuSub/GitHub-Workshop?color=blue&style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=prabhuSub.vistorsBadge)
-<!-- [![Update README](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml/badge.svg)](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml) -->
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FprabhuSub&label=VISITORS&countColor=%23263759&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FprabhuSub)
+[![Update README](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml/badge.svg)](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml)
 
 ### I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫!
 --------------------------------------------------------------------------------------
@@ -15,7 +16,7 @@
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/43825167/203897718-047074bf-d937-41f3-9310-100c2062610e.PNG" />
 
 - ![website status](https://img.shields.io/website?color=green&down_color=lightgrey&down_message=offline&style=flat-square&up_color=blue&up_message=online&url=http%3A%2F%2Fprabhuresume.com%2F) 🌐 Checkout my **portfolio website**
-  [Prabhu | Portfolio](http://prabhuresume.com/) [![Visitors](https://api.visitorbadge.io/api/visitors?path=http%3A%2F%2Fprabhuresume.com&label=visitors&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=http%3A%2F%2Fprabhuresume.com)
+  [Prabhu | Portfolio](http://prabhuresume.com/) [![Visitors](https://api.visitorbadge.io/api/visitors?path=http%3A%2F%2Fprabhuresume.com&label=visitors&countColor=%23263759&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=http%3A%2F%2Fprabhuresume.com)
 - ![Website](https://img.shields.io/website?url=http%3A%2F%2Fprabhu-resume.s3-website-us-east-1.amazonaws.com%2F) 🌐 Also checkout my **3D Scrolling Website**
   [3D Scrolling Website | WebGL](http://prabhu-resume.s3-website-us-east-1.amazonaws.com/)
 - 💻 Currently Job: **Data Analyst | Data Engineer at Levi Strauss & Co.**
