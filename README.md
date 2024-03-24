@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/prabhuSub/GitHub-Workshop?color=blue&style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=prabhuSub.vistorsBadge)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FprabhuSub&label=VISITORS&countColor=%23263759&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FprabhuSub)
-[![Update README](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml/badge.svg)](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/prabhuSub/prabhuSub/actions/workflows/update-readme.yml)
 
 ### I'm a Student, Developer, and a Teacher by Heart👨🏻‍🏫!
 --------------------------------------------------------------------------------------
