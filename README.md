@@ -38,8 +38,8 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#103](https://github.com/jonathanyeung/mark-sharp/issues/103) in [jonathanyeung/mark-sharp](https://github.com/jonathanyeung/mark-sharp)
-2. 🗣 Commented on [#80](https://github.com/nea/MarkdownViewerPlusPlus/issues/80#issuecomment-2895802813) in [nea/MarkdownViewerPlusPlus](https://github.com/nea/MarkdownViewerPlusPlus)
+1. 🎉 Merged PR [#1](https://github.com/prabhuSub/prabhuSub/pull/1) in [prabhuSub/prabhuSub](https://github.com/prabhuSub/prabhuSub)
+2. 💪 Opened PR [#1](https://github.com/prabhuSub/prabhuSub/pull/1) in [prabhuSub/prabhuSub](https://github.com/prabhuSub/prabhuSub)
 3. 🗣 Commented on [#271](https://github.com/vgrem/Office365-REST-Python-Client/issues/271) in [vgrem/Office365-REST-Python-Client](https://github.com/vgrem/Office365-REST-Python-Client)
 4. ❗️ Opened issue [#1](https://github.com/chanon-kr/Shared_Function/issues/1) in [chanon-kr/Shared_Function](https://github.com/chanon-kr/Shared_Function)
 5. 🗣 Commented on [#57](https://github.com/logandk/serverless-wsgi/issues/57) in [logandk/serverless-wsgi](https://github.com/logandk/serverless-wsgi)
