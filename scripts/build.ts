@@ -215,7 +215,7 @@ function contributions(days: Day[]) {
 
 // ---------- timeline ----------
 function timeline() {
-  const W = 880, H = 170, y = 84, PAD_BOTTOM = 17; // transparent gap before the project cards
+  const W = 880, H = 170, y = 84, PAD_BOTTOM = 46; // transparent gap before the project cards
   const stops = [
     { co: "Hewlett Packard", role: "Software Engineer", yr: "2015" },
     { co: "Squark AI", role: "Graduate Programmer Analyst", yr: "2019" },
@@ -270,7 +270,7 @@ ${wrap(p.desc, 34).map((l, k) => `<text x="20" y="${95 + k * 18}" font-size="13"
 
 // ---------- buttons ----------
 function button(label: string, primary: boolean) {
-  const W = 260, H = 44, PAD_TOP = 16; // transparent gap after the project cards
+  const W = 260, H = 44, PAD_TOP = 43; // transparent gap after the project cards
   return svg(W, H + PAD_TOP, `<g transform="translate(0 ${PAD_TOP})"><rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="6" fill="${primary ? C.blue : C.panel}"/>
 <text x="${W / 2}" y="27" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="1.2" fill="${primary ? "#fff" : C.ink}">${label}</text></g>`);
 }
