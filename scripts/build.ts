@@ -215,7 +215,7 @@ function contributions(days: Day[]) {
 
 // ---------- timeline ----------
 function timeline() {
-  const W = 880, H = 170, y = 84;
+  const W = 880, H = 170, y = 84, PAD_BOTTOM = 34; // transparent gap before the project cards
   const stops = [
     { co: "Hewlett Packard", role: "Software Engineer", yr: "2015" },
     { co: "Squark AI", role: "Graduate Programmer Analyst", yr: "2019" },
@@ -237,7 +237,7 @@ function timeline() {
 <text class="rise" style="animation-delay:${d}s" x="${x}" y="${y + 34}" text-anchor="middle" font-size="14" font-weight="600" fill="${C.ink}">${esc(s.co)}</text>
 <text class="rise" style="animation-delay:${d}s" x="${x}" y="${y + 53}" text-anchor="middle" font-size="11.5" fill="${C.sub}">${esc(s.role)}</text>`;
   });
-  return svg(W, H, body, `@keyframes draw{to{stroke-dashoffset:0}}`);
+  return svg(W, H + PAD_BOTTOM, body, `@keyframes draw{to{stroke-dashoffset:0}}`);
 }
 
 // ---------- project cards ----------
@@ -270,9 +270,9 @@ ${wrap(p.desc, 34).map((l, k) => `<text x="20" y="${95 + k * 18}" font-size="13"
 
 // ---------- buttons ----------
 function button(label: string, primary: boolean) {
-  const W = 260, H = 44;
-  return svg(W, H, `<rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="6" fill="${primary ? C.blue : C.panel}"/>
-<text x="${W / 2}" y="27" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="1.2" fill="${primary ? "#fff" : C.ink}">${label}</text>`);
+  const W = 260, H = 44, PAD_TOP = 16; // transparent gap after the project cards
+  return svg(W, H + PAD_TOP, `<g transform="translate(0 ${PAD_TOP})"><rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="6" fill="${primary ? C.blue : C.panel}"/>
+<text x="${W / 2}" y="27" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="1.2" fill="${primary ? "#fff" : C.ink}">${label}</text></g>`);
 }
 
 // ---------- main ----------
