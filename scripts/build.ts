@@ -79,20 +79,24 @@ async function fetchRepoCount(): Promise<number> {
   return (await res.json()).public_repos ?? 60;
 }
 
-// Total hours coded, all time. Null when no key or the API fails — the stat then shows "—".
+// Total hours coded, all time. WakaTime computes this in the background, so the first
+// call can report is_up_to_date=false with 0s — retry a few times. Null shows "—".
 async function fetchWakaHours(): Promise<number | null> {
   const key = process.env.WAKATIME_API_KEY;
   if (!key) return null;
-  try {
-    const res = await fetch("https://wakatime.com/api/v1/users/current/all_time_since_today", {
-      headers: { Authorization: `Basic ${Buffer.from(key).toString("base64")}` },
-    });
-    if (!res.ok) return null;
-    const secs = (await res.json()).data?.total_seconds;
-    return typeof secs === "number" ? Math.round(secs / 3600) : null;
-  } catch {
-    return null;
+  const headers = { Authorization: `Basic ${Buffer.from(key).toString("base64")}` };
+  for (let attempt = 1; attempt <= 4; attempt++) {
+    try {
+      const res = await fetch("https://wakatime.com/api/v1/users/current/all_time_since_today", { headers });
+      const data = res.ok ? (await res.json()).data : null;
+      console.log(`WakaTime attempt ${attempt}: HTTP ${res.status}, up_to_date=${data?.is_up_to_date}, seconds=${data?.total_seconds}, range=${data?.range?.start ?? "?"}..${data?.range?.end ?? "?"}`);
+      if (data?.is_up_to_date && data.total_seconds > 0) return Math.round(data.total_seconds / 3600);
+    } catch (e) {
+      console.log(`WakaTime attempt ${attempt} failed: ${e}`);
+    }
+    if (attempt < 4) await Bun.sleep(15_000);
   }
+  return null;
 }
 
 // Role line under the name cycles through these, ROLE_SECS each, forever.
@@ -197,16 +201,16 @@ function contributions(days: Day[]) {
     const x = gx + d.col * (cell + gap), y = gy + d.row * (cell + gap);
     body += `<rect class="fade" style="animation-delay:${(0.2 + d.col * 0.025).toFixed(3)}s;animation-duration:.4s" x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2.5" fill="${C.green[Math.min(d.level, 5)]}"><title>${d.count} on ${d.date}</title></rect>`;
   }
-  // Charging shimmer: a green band sweeps across the cells every 6s.
+  // Charging shimmer: a green band sweeps across the cells every 3s.
   const cells = days.map((d) => `<rect x="${gx + d.col * (cell + gap)}" y="${gy + d.row * (cell + gap)}" width="${cell}" height="${cell}" rx="2.5"/>`).join("");
   body += `<defs><clipPath id="cells">${cells}</clipPath>
 <linearGradient id="band" x1="0" x2="1"><stop offset="0" stop-color="${C.green[4]}" stop-opacity="0"/><stop offset=".5" stop-color="${C.green[4]}" stop-opacity=".6"/><stop offset="1" stop-color="${C.green[4]}" stop-opacity="0"/></linearGradient></defs>
-<g clip-path="url(#cells)" class="sh"><rect x="${gx - 160}" y="${gy}" width="140" height="${7 * (cell + gap)}" fill="url(#band)" style="animation:shimmer 6s ease-in-out 2.5s infinite"/></g>`;
+<g clip-path="url(#cells)" class="sh"><rect x="${gx - 160}" y="${gy}" width="140" height="${7 * (cell + gap)}" fill="url(#band)" style="animation:shimmer 3s ease-in-out 2.5s infinite"/></g>`;
   const ly = gy + 7 * (cell + gap) + 16;
   body += `<text x="${gx + gridW - 128}" y="${ly + 9}" text-anchor="end" font-size="11" fill="${C.faint}">Less</text>`;
   [0, 1, 2, 3, 4].forEach((l, i) => (body += `<rect x="${gx + gridW - 120 + i * 16}" y="${ly}" width="${cell}" height="${cell}" rx="2.5" fill="${C.green[l]}"/>`));
   body += `<text x="${gx + gridW - 36}" y="${ly + 9}" font-size="11" fill="${C.faint}">More</text>`;
-  return svg(W, H, body, `@keyframes shimmer{0%{transform:translateX(0)}45%,100%{transform:translateX(${gridW + 320}px)}}`);
+  return svg(W, H, body, `@keyframes shimmer{0%{transform:translateX(0)}75%,100%{transform:translateX(${gridW + 320}px)}}`);
 }
 
 // ---------- timeline ----------
