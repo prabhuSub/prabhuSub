@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="284" height="156" viewBox="0 0 284 156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes on{0%,99%{opacity:1}100%{opacity:0}}
+@keyframes stay{to{opacity:1}}
+.rise{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
+.fade{opacity:0;animation:fade .7s ease-out forwards}
+
+
+</style>
+<g class="rise" style="animation-delay:0.33999999999999997s">
+<rect x="1" y="1" width="282" height="154" rx="12" fill="#ffffff" stroke="#e2e3e3"/>
+<g><rect x="20" y="18" width="39.05" height="24.200000000000003" rx="12.100000000000001" fill="#e8f6eb" stroke="#e8f6eb"/><text x="30.45" y="34.06" font-size="11" fill="#1f8a33">Web</text></g><g><rect x="65.05" y="18" width="51.150000000000006" height="24.200000000000003" rx="12.100000000000001" fill="#f4f4f4" stroke="#f4f4f4"/><text x="75.5" y="34.06" font-size="11" fill="#5c5e62">WebGL</text></g>
+<text x="20" y="72" font-size="18" font-weight="600" fill="#171a20">3D Scrolling Resume</text>
+<text x="20" y="95" font-size="13" fill="#5c5e62">WebGL resume you scroll through in</text><text x="20" y="113" font-size="13" fill="#5c5e62">3D</text>
+<text x="20" y="140" font-size="11" letter-spacing="1.5" font-weight="600" fill="#171a20">LEARN MORE →</text></g>
+</svg>

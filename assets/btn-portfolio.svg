@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="44" viewBox="0 0 260 44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes on{0%,99%{opacity:1}100%{opacity:0}}
+@keyframes stay{to{opacity:1}}
+.rise{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
+.fade{opacity:0;animation:fade .7s ease-out forwards}
+
+
+</style>
+<rect x="1" y="1" width="258" height="42" rx="6" fill="#3e6ae1"/>
+<text x="130" y="27" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="1.2" fill="#fff">VIEW PORTFOLIO</text>
+</svg>
