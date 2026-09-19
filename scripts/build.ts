@@ -215,7 +215,7 @@ function contributions(days: Day[]) {
 
 // ---------- timeline ----------
 function timeline() {
-  const W = 880, H = 170, y = 84, PAD_BOTTOM = 34; // transparent gap before the project cards
+  const W = 880, H = 170, y = 84, PAD_BOTTOM = 17; // transparent gap before the project cards
   const stops = [
     { co: "Hewlett Packard", role: "Software Engineer", yr: "2015" },
     { co: "Squark AI", role: "Graduate Programmer Analyst", yr: "2019" },
