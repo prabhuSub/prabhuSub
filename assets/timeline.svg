@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes on{0%,99%{opacity:1}100%{opacity:0}}
+@keyframes stay{to{opacity:1}}
+.rise{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
+.fade{opacity:0;animation:fade .7s ease-out forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+
+</style>
+<rect width="880" height="170" rx="16" fill="#f4f4f4"/>
+<text x="36" y="34" font-size="12" letter-spacing="2" fill="#5c5e62">THE ROUTE SO FAR</text>
+<line x1="90" y1="84" x2="790" y2="84" stroke="#e2e3e3" stroke-width="3" stroke-linecap="round"/>
+<line x1="90" y1="84" x2="790" y2="84" stroke="#171a20" stroke-width="3" stroke-linecap="round" class="dr" stroke-dasharray="700" stroke-dashoffset="700" style="animation:draw 2.4s ease-in-out .3s forwards"/><circle cx="90" cy="84" r="7" fill="#ffffff" stroke="#e2e3e3" stroke-width="3"/>
+<circle class="fade" style="animation-delay:0.30s;animation-duration:.3s" cx="90" cy="84" r="7" fill="#171a20"/>
+<text class="rise" style="animation-delay:0.30s" x="90" y="62" text-anchor="middle" font-size="12" fill="#a2a3a5" font-weight="400">2015</text>
+<text class="rise" style="animation-delay:0.30s" x="90" y="118" text-anchor="middle" font-size="14" font-weight="600" fill="#171a20">Hewlett Packard</text>
+<text class="rise" style="animation-delay:0.30s" x="90" y="137" text-anchor="middle" font-size="11.5" fill="#5c5e62">Software Engineer</text><circle cx="265" cy="84" r="7" fill="#ffffff" stroke="#e2e3e3" stroke-width="3"/>
+<circle class="fade" style="animation-delay:0.90s;animation-duration:.3s" cx="265" cy="84" r="7" fill="#171a20"/>
+<text class="rise" style="animation-delay:0.90s" x="265" y="62" text-anchor="middle" font-size="12" fill="#a2a3a5" font-weight="400">2019</text>
+<text class="rise" style="animation-delay:0.90s" x="265" y="118" text-anchor="middle" font-size="14" font-weight="600" fill="#171a20">Squark AI</text>
+<text class="rise" style="animation-delay:0.90s" x="265" y="137" text-anchor="middle" font-size="11.5" fill="#5c5e62">Graduate Programmer Analyst</text><circle cx="440" cy="84" r="7" fill="#ffffff" stroke="#e2e3e3" stroke-width="3"/>
+<circle class="fade" style="animation-delay:1.50s;animation-duration:.3s" cx="440" cy="84" r="7" fill="#171a20"/>
+<text class="rise" style="animation-delay:1.50s" x="440" y="62" text-anchor="middle" font-size="12" fill="#a2a3a5" font-weight="400">2020</text>
+<text class="rise" style="animation-delay:1.50s" x="440" y="118" text-anchor="middle" font-size="14" font-weight="600" fill="#171a20">PACCAR</text>
+<text class="rise" style="animation-delay:1.50s" x="440" y="137" text-anchor="middle" font-size="11.5" fill="#5c5e62">Data Engineer Intern</text><circle cx="615" cy="84" r="7" fill="#ffffff" stroke="#e2e3e3" stroke-width="3"/>
+<circle class="fade" style="animation-delay:2.10s;animation-duration:.3s" cx="615" cy="84" r="7" fill="#171a20"/>
+<text class="rise" style="animation-delay:2.10s" x="615" y="62" text-anchor="middle" font-size="12" fill="#a2a3a5" font-weight="400">2021</text>
+<text class="rise" style="animation-delay:2.10s" x="615" y="118" text-anchor="middle" font-size="14" font-weight="600" fill="#171a20">Levi Strauss &amp; Co.</text>
+<text class="rise" style="animation-delay:2.10s" x="615" y="137" text-anchor="middle" font-size="11.5" fill="#5c5e62">Sr. Data Analyst</text><circle cx="790" cy="84" r="9" fill="#ffffff" stroke="#e2e3e3" stroke-width="3"/>
+<circle class="fade" style="animation-delay:2.70s;animation-duration:.3s" cx="790" cy="84" r="9" fill="#e82127"/>
+<text class="rise" style="animation-delay:2.70s" x="790" y="62" text-anchor="middle" font-size="12" fill="#e82127" font-weight="600">2025 — Now</text>
+<text class="rise" style="animation-delay:2.70s" x="790" y="118" text-anchor="middle" font-size="14" font-weight="600" fill="#171a20">Tesla</text>
+<text class="rise" style="animation-delay:2.70s" x="790" y="137" text-anchor="middle" font-size="11.5" fill="#5c5e62">Sr. Data Analyst</text>
+</svg>
