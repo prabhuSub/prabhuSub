@@ -34,7 +34,7 @@ text{font-family:${FONT}}
 .rise{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
 .fade{opacity:0;animation:fade .7s ease-out forwards}
 ${css}
-${STATIC ? "*{animation:none!important}.rise,.fade,.cf{opacity:1!important}.dr{stroke-dashoffset:0!important}" : ""}
+${STATIC ? "*{animation:none!important}.rise,.fade,.cf{opacity:1!important}.dr{stroke-dashoffset:0!important}.r0{opacity:1!important}.sh{display:none}" : ""}
 </style>
 ${body}
 </svg>`;
@@ -94,6 +94,10 @@ async function fetchWakaHours(): Promise<number | null> {
   }
 }
 
+// Role line under the name cycles through these, ROLE_SECS each, forever.
+const ROLES = ["Sr. Data Analyst @ Tesla", "Data Engineer", "Builder of Ledger", "Teacher at heart"];
+const ROLE_SECS = 3;
+
 // ---------- header: photo left, info right, stats underneath ----------
 async function header(stats: { n: number | null; suffix?: string; unit?: string; label: string }[]) {
   const photo = Buffer.from(await Bun.file(`${OUT}portrait.jpg`).arrayBuffer()).toString("base64");
@@ -111,7 +115,7 @@ async function header(stats: { n: number | null; suffix?: string; unit?: string;
 </g>
 <text class="rise" style="animation-delay:.15s" x="262" y="72" font-size="31" font-weight="500" letter-spacing="5.5" fill="${C.ink}">PRABHU SUBRAMANIAN</text>
 <rect class="fade" style="animation-delay:.5s" x="263" y="96" width="36" height="3" rx="1.5" fill="${C.red}"/>
-<text class="rise" style="animation-delay:.3s" x="310" y="102" font-size="15" letter-spacing=".6" fill="${C.sub}">Sr. Data Analyst @ Tesla</text>`;
+${ROLES.map((role, i) => `<text class="role${i === 0 ? " r0" : ""}" style="animation-delay:${i * ROLE_SECS}s" x="310" y="102" font-size="15" letter-spacing=".6" fill="${C.sub}">${esc(role)}</text>`).join("")}`;
 
   // status pills
   let px = 262;
@@ -145,7 +149,9 @@ async function header(stats: { n: number | null; suffix?: string; unit?: string;
     body += `<text class="fade" style="animation-delay:${delay0}s" x="${x}" y="${sy + 32}" text-anchor="middle" font-size="12" letter-spacing=".8" fill="${C.sub}">${it.label}</text>`;
     if (i) body += `<line x1="${colW * i}" y1="${sy - 12}" x2="${colW * i}" y2="${sy + 36}" stroke="${C.line}"/>`;
   });
-  return svg(W, H, body);
+  const cycle = ROLES.length * ROLE_SECS, slot = (100 / ROLES.length).toFixed(2);
+  return svg(W, H, body, `@keyframes role{0%{opacity:0;transform:translateY(6px)}3%{opacity:1;transform:none}${(+slot - 3).toFixed(2)}%{opacity:1;transform:none}${slot}%{opacity:0;transform:translateY(-6px)}100%{opacity:0}}
+.role{opacity:0;animation:role ${cycle}s ease-in-out infinite}`);
 }
 
 // ---------- category pills: stack + focus ----------
@@ -188,11 +194,16 @@ function contributions(days: Day[]) {
     const x = gx + d.col * (cell + gap), y = gy + d.row * (cell + gap);
     body += `<rect class="fade" style="animation-delay:${(0.2 + d.col * 0.025).toFixed(3)}s;animation-duration:.4s" x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2.5" fill="${C.green[Math.min(d.level, 5)]}"><title>${d.count} on ${d.date}</title></rect>`;
   }
+  // Charging shimmer: a green band sweeps across the cells every 6s.
+  const cells = days.map((d) => `<rect x="${gx + d.col * (cell + gap)}" y="${gy + d.row * (cell + gap)}" width="${cell}" height="${cell}" rx="2.5"/>`).join("");
+  body += `<defs><clipPath id="cells">${cells}</clipPath>
+<linearGradient id="band" x1="0" x2="1"><stop offset="0" stop-color="${C.green[4]}" stop-opacity="0"/><stop offset=".5" stop-color="${C.green[4]}" stop-opacity=".6"/><stop offset="1" stop-color="${C.green[4]}" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#cells)" class="sh"><rect x="${gx - 160}" y="${gy}" width="140" height="${7 * (cell + gap)}" fill="url(#band)" style="animation:shimmer 6s ease-in-out 2.5s infinite"/></g>`;
   const ly = gy + 7 * (cell + gap) + 16;
   body += `<text x="${gx + gridW - 128}" y="${ly + 9}" text-anchor="end" font-size="11" fill="${C.faint}">Less</text>`;
   [0, 1, 2, 3, 4].forEach((l, i) => (body += `<rect x="${gx + gridW - 120 + i * 16}" y="${ly}" width="${cell}" height="${cell}" rx="2.5" fill="${C.green[l]}"/>`));
   body += `<text x="${gx + gridW - 36}" y="${ly + 9}" font-size="11" fill="${C.faint}">More</text>`;
-  return svg(W, H, body);
+  return svg(W, H, body, `@keyframes shimmer{0%{transform:translateX(0)}45%,100%{transform:translateX(${gridW + 320}px)}}`);
 }
 
 // ---------- timeline ----------
