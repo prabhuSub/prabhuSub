@@ -155,19 +155,22 @@ function pills() {
     { label: "STACK", items: ["Python", "SQL", "Snowflake", "Databricks", "AWS", "GCP", "Terraform", "Tableau", "Power BI"], style: {} },
     { label: "FOCUS", items: ["Data Engineering", "Analytics", "BI", "Machine Learning", "Automation", "AI Agents"], style: { fill: C.ink, stroke: C.ink, color: "#fff" } },
   ];
-  let body = "", y = 8, n = 0;
+  // Own light panel so the pills stay readable on GitHub dark mode.
+  const PX = 28;
+  let body = "", y = 22, n = 0;
   for (const row of rows) {
-    body += `<text class="fade" x="0" y="${y + 18}" font-size="11" letter-spacing="2" font-weight="600" fill="${C.faint}">${row.label}</text>`;
-    let x = 72;
+    body += `<text class="fade" x="${PX}" y="${y + 18}" font-size="11" letter-spacing="2" font-weight="600" fill="${C.faint}">${row.label}</text>`;
+    let x = PX + 72;
     for (const item of row.items) {
       const p = pill(x, y, item, { ...row.style, size: 12.5, cls: "rise", delay: 0.05 + n++ * 0.04 });
-      if (x + p.w > W) break;
+      if (x + p.w > W - PX) break;
       body += p.svg;
       x += p.w + 7;
     }
     y += 40;
   }
-  return svg(W, y, body);
+  const H = y + 10;
+  return svg(W, H, `<rect width="${W}" height="${H}" rx="16" fill="${C.bg}" stroke="${C.line}"/>` + body);
 }
 
 // ---------- contributions grid ----------
