@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/header.svg" width="880" alt="Prabhu Subramanian — Sr. Data Analyst @ Tesla · 10+ yrs · 5 companies · public repos · hours coded" />
+<a href="https://prabhusubramanian.com"><img src="assets/header.svg" width="880" alt="Prabhu Subramanian — Sr. Data Analyst @ Tesla · 10+ yrs · 5 companies · public repos · hours coded" /></a>
 
-<img src="assets/pills.svg" width="880" alt="Stack: Python, SQL, Snowflake, Databricks, AWS, GCP, Terraform, Tableau, Power BI · Focus: Data Engineering, Analytics, BI, ML, Automation, AI Agents" />
-
-
-<img src="assets/contributions.svg" width="880" alt="GitHub contributions over the last 12 months" />
+<a href="https://prabhusubramanian.com"><img src="assets/pills.svg" width="880" alt="Stack: Python, SQL, Snowflake, Databricks, AWS, GCP, Terraform, Tableau, Power BI · Focus: Data Engineering, Analytics, BI, ML, Automation, AI Agents" /></a>
 
 
-<img src="assets/timeline.svg" width="880" alt="Career: Hewlett Packard → Squark AI → PACCAR → Levi Strauss & Co. → Tesla" />
+<a href="https://prabhusubramanian.com"><img src="assets/contributions.svg" width="880" alt="GitHub contributions over the last 12 months" /></a>
+
+
+<a href="https://prabhusubramanian.com"><img src="assets/timeline.svg" width="880" alt="Career: Hewlett Packard → Squark AI → PACCAR → Levi Strauss & Co. → Tesla" /></a>
 
 
 <a href="https://nbviewer.org/github/prabhuSub/BDIA-Assignment-2/blob/master/Assignment%202%20-%20Kobe_Bryant_EDA%20Kernel.ipynb"><img src="assets/p-kobe.svg" width="32%" alt="Kobe Bryant Shot Analysis" /></a>
