@@ -40,7 +40,7 @@ ${body}
 </svg>`;
 
 // Rough text width for the system sans stack; good enough to size pills.
-const textW = (s: string, size: number, spacing = 0) => s.length * size * 0.52 + s.length * spacing;
+const textW = (s: string, size: number, spacing = 0) => s.length * size * 0.55 + s.length * spacing;
 
 function pill(x: number, y: number, label: string, o: { size?: number; fill?: string; stroke?: string; color?: string; dot?: string; pulse?: boolean; cls?: string; delay?: number } = {}) {
   const size = o.size ?? 12.5, h = size * 2.2, pad = size * 0.95;
@@ -254,6 +254,7 @@ const PROJECTS = [
   { file: "p-webgl", tags: ["Web", "WebGL"], title: "3D Scrolling Resume", desc: "WebGL resume you scroll through in 3D" },
   { file: "p-book", tags: ["Research", "ML"], title: "Interpretable ML", desc: "An evaluation system for interpretable models (book)" },
   { file: "p-teach", tags: ["Community", "Teaching"], title: "Workshops & Teaching", desc: "Git/GitHub and Python workshops at Northeastern" },
+  { file: "p-tableau", tags: ["BI", "Tableau"], title: "Tableau Portfolio", desc: "Interactive resume and dashboards on Tableau Public" },
 ];
 function card(p: (typeof PROJECTS)[number], i: number, cta: string) {
   const W = 284, H = 156;
