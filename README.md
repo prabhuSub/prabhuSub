@@ -10,7 +10,7 @@
 
 <a href="https://prabhusubramanian.com"><img src="assets/timeline.svg" width="880" alt="Career: Hewlett Packard → Squark AI → PACCAR → Levi Strauss & Co. → Tesla" /></a>
 
-<img src="assets/spacer.svg" width="10" height="32" alt="" />
+<img src="assets/spacer.svg" width="10" alt="" />
 
 
 <a href="https://nbviewer.org/github/prabhuSub/BDIA-Assignment-2/blob/master/Assignment%202%20-%20Kobe_Bryant_EDA%20Kernel.ipynb"><img src="assets/p-kobe.svg" width="32%" alt="Kobe Bryant Shot Analysis" /></a>
@@ -20,7 +20,7 @@
 <a href="https://github.com/prabhuSub/GitHub-Workshop"><img src="assets/p-teach.svg" width="32%" alt="Workshops & Teaching" /></a>
 <a href="https://public.tableau.com/app/profile/prabhu.sub/viz/PrabhusResume3/Resume"><img src="assets/p-tableau.svg" width="32%" alt="Tableau Portfolio" /></a>
 
-<img src="assets/spacer.svg" width="10" height="16" alt="" />
+<img src="assets/spacer.svg" width="10" alt="" />
 
 <a href="https://prabhusubramanian.com"><img src="assets/btn-portfolio.svg" width="260" alt="View portfolio" /></a>
 &nbsp;
