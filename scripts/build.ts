@@ -34,7 +34,7 @@ text{font-family:${FONT}}
 .rise{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
 .fade{opacity:0;animation:fade .7s ease-out forwards}
 ${css}
-${STATIC ? "*{animation:none!important}.rise,.fade,.cf{opacity:1!important}.dr{stroke-dashoffset:0!important}.r0{opacity:1!important}.sh{display:none}" : ""}
+${STATIC ? "*{animation:none!important}.rise,.fade,.cf{opacity:1!important}.dr{stroke-dashoffset:0!important}.r0{opacity:1!important}.sh,.pulse{display:none}" : ""}
 </style>
 ${body}
 </svg>`;
@@ -42,13 +42,14 @@ ${body}
 // Rough text width for the system sans stack; good enough to size pills.
 const textW = (s: string, size: number, spacing = 0) => s.length * size * 0.52 + s.length * spacing;
 
-function pill(x: number, y: number, label: string, o: { size?: number; fill?: string; stroke?: string; color?: string; dot?: string; cls?: string; delay?: number } = {}) {
+function pill(x: number, y: number, label: string, o: { size?: number; fill?: string; stroke?: string; color?: string; dot?: string; pulse?: boolean; cls?: string; delay?: number } = {}) {
   const size = o.size ?? 12.5, h = size * 2.2, pad = size * 0.95;
   const dotW = o.dot ? size * 0.9 : 0;
   const w = textW(label, size) + pad * 2 + dotW;
   const anim = o.cls ? ` class="${o.cls}" style="animation-delay:${o.delay ?? 0}s"` : "";
   const out = `<g${anim}><rect x="${x}" y="${y}" width="${w}" height="${h}" rx="${h / 2}" fill="${o.fill ?? C.bg}" stroke="${o.stroke ?? C.line}"/>${
-    o.dot ? `<circle cx="${x + pad + size * 0.28}" cy="${y + h / 2}" r="${size * 0.28}" fill="${o.dot}"/>` : ""
+    (o.dot && o.pulse ? `<circle class="pulse" cx="${x + pad + size * 0.28}" cy="${y + h / 2}" r="${size * 0.28}" fill="${o.dot}"/>` : "") +
+    (o.dot ? `<circle cx="${x + pad + size * 0.28}" cy="${y + h / 2}" r="${size * 0.28}" fill="${o.dot}"/>` : "")
   }<text x="${x + pad + dotW}" y="${y + h / 2 + size * 0.36}" font-size="${size}" fill="${o.color ?? C.ink}">${esc(label)}</text></g>`;
   return { svg: out, w, h };
 }
@@ -120,11 +121,11 @@ ${ROLES.map((role, i) => `<text class="role${i === 0 ? " r0" : ""}" style="anima
   // status pills
   let px = 262;
   for (const [i, s] of [
-    { label: "Open to collaborate", dot: C.green[4] },
+    { label: "Open to collaborate", dot: C.green[4], pulse: true },
     { label: "San Francisco, CA", dot: C.faint },
-    { label: "Building with AI", dot: C.red },
+    { label: "Building with AI", dot: C.red, pulse: true },
   ].entries()) {
-    const p = pill(px, 124, s.label, { dot: s.dot, cls: "rise", delay: 0.45 + i * 0.1 });
+    const p = pill(px, 124, s.label, { dot: s.dot, pulse: s.pulse, cls: "rise", delay: 0.45 + i * 0.1 });
     body += p.svg;
     px += p.w + 8;
   }
@@ -151,7 +152,9 @@ ${ROLES.map((role, i) => `<text class="role${i === 0 ? " r0" : ""}" style="anima
   });
   const cycle = ROLES.length * ROLE_SECS, slot = (100 / ROLES.length).toFixed(2);
   return svg(W, H, body, `@keyframes role{0%{opacity:0;transform:translateY(6px)}3%{opacity:1;transform:none}${(+slot - 3).toFixed(2)}%{opacity:1;transform:none}${slot}%{opacity:0;transform:translateY(-6px)}100%{opacity:0}}
-.role{opacity:0;animation:role ${cycle}s ease-in-out infinite}`);
+.role{opacity:0;animation:role ${cycle}s ease-in-out infinite}
+@keyframes pulse{0%{transform:scale(1);opacity:.7}70%,100%{transform:scale(3);opacity:0}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-out 1.2s infinite}`);
 }
 
 // ---------- category pills: stack + focus ----------
