@@ -1,4 +1,3 @@
-<img width="1712" height="1712" alt="CleanShot 2026-09-25 at 10 28 42 PM@2x" src="https://github.com/user-attachments/assets/a910dca1-f906-4b80-b40c-8f5dec02bfdf" />
 <div align="center">
 
 <a href="https://prabhusubramanian.com"><img src="assets/header.svg" width="880" alt="Prabhu Subramanian — Sr. Data Analyst @ Tesla · 10+ yrs · 5 companies · public repos · hours coded" /></a>
