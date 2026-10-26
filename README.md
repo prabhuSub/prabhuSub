@@ -38,8 +38,8 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/prabhuSub/prabhuSub/pull/3) in [prabhuSub/prabhuSub](https://github.com/prabhuSub/prabhuSub)
-2. 💪 Opened PR [#3](https://github.com/prabhuSub/prabhuSub/pull/3) in [prabhuSub/prabhuSub](https://github.com/prabhuSub/prabhuSub)
+1. ℹ️ Labeled issue [#468](https://github.com/FlashML-org/FreeVideo/issues/468) in [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo)
+2. ❗ Opened issue [#468](https://github.com/FlashML-org/FreeVideo/issues/468) in [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo)
 3. 🎉 Merged PR [#2](https://github.com/prabhuSub/prabhuSub/pull/2) in [prabhuSub/prabhuSub](https://github.com/prabhuSub/prabhuSub)
 4. 💪 Opened PR [#2](https://github.com/prabhuSub/prabhuSub/pull/2) in [prabhuSub/prabhuSub](https://github.com/prabhuSub/prabhuSub)
 5. 🎉 Merged PR [#1](https://github.com/prabhuSub/prabhuSub/pull/1) in [prabhuSub/prabhuSub](https://github.com/prabhuSub/prabhuSub)
