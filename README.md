@@ -38,9 +38,9 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#468](https://github.com/FlashML-org/FreeVideo/issues/468) in [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo)
-2. ❗ Opened issue [#468](https://github.com/FlashML-org/FreeVideo/issues/468) in [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo)
-3. 🎉 Merged PR [#2](https://github.com/prabhuSub/prabhuSub/pull/2) in [prabhuSub/prabhuSub](https://github.com/prabhuSub/prabhuSub)
+1. 💪 Opened PR [#32](https://github.com/scasella/claude-flightdeck/pull/32) in [scasella/claude-flightdeck](https://github.com/scasella/claude-flightdeck)
+2. ℹ️ Labeled issue [#468](https://github.com/FlashML-org/FreeVideo/issues/468) in [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo)
+3. ❗ Opened issue [#468](https://github.com/FlashML-org/FreeVideo/issues/468) in [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo)
 4. 💪 Opened PR [#2](https://github.com/prabhuSub/prabhuSub/pull/2) in [prabhuSub/prabhuSub](https://github.com/prabhuSub/prabhuSub)
 5. 🎉 Merged PR [#1](https://github.com/prabhuSub/prabhuSub/pull/1) in [prabhuSub/prabhuSub](https://github.com/prabhuSub/prabhuSub)
 6. 💪 Opened PR [#1](https://github.com/prabhuSub/prabhuSub/pull/1) in [prabhuSub/prabhuSub](https://github.com/prabhuSub/prabhuSub)
