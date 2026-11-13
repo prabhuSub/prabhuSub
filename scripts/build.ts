@@ -1,6 +1,6 @@
 // Generates the Tesla-inspired profile SVGs in assets/.
 // Run: bun scripts/build.ts   (daily via .github/workflows/update-profile-art.yml)
-// Env: WAKATIME_API_KEY (optional, coding hours), GITHUB_TOKEN (optional, API rate limit), STATIC=1 (no animation).
+// Env: WAKATIME_TOKEN (optional OAuth token; public stats are used without it), GITHUB_TOKEN (optional, API rate limit), STATIC=1 (no animation).
 import { mkdir } from "node:fs/promises";
 
 const USER = "prabhuSub";
@@ -79,18 +79,28 @@ async function fetchRepoCount(): Promise<number> {
   return (await res.json()).public_repos ?? 60;
 }
 
-// Total hours coded, all time. WakaTime computes this in the background, so the first
-// call can report is_up_to_date=false with 0s — retry a few times. Null shows "—".
+// Total hours coded, all time. WakaTime stopped accepting plugin API keys on its stats API
+// (403 "API Keys are only for plugins"), so read the public profile stats instead. These need
+// "display code time publicly" plus public stats range "All Time" in wakatime.com/settings/profile.
+// An OAuth token in WAKATIME_TOKEN reads the private stats instead. WakaTime computes stats in
+// the background, so the first call can report is_up_to_date=false — retry. Null shows "—".
+const WAKA_USER = "prabhus165";
 async function fetchWakaHours(): Promise<number | null> {
-  const key = process.env.WAKATIME_API_KEY;
-  if (!key) return null;
-  const headers = { Authorization: `Basic ${Buffer.from(key).toString("base64")}` };
+  const token = process.env.WAKATIME_TOKEN;
+  const url = token
+    ? "https://wakatime.com/api/v1/users/current/all_time_since_today"
+    : `https://wakatime.com/api/v1/users/@${WAKA_USER}/stats/all_time`;
+  const headers: Record<string, string> = token ? { Authorization: `Bearer ${token}` } : {};
   for (let attempt = 1; attempt <= 4; attempt++) {
     try {
-      const res = await fetch("https://wakatime.com/api/v1/users/current/all_time_since_today", { headers });
-      const data = res.ok ? (await res.json()).data : null;
-      console.log(`WakaTime attempt ${attempt}: HTTP ${res.status}, up_to_date=${data?.is_up_to_date}, seconds=${data?.total_seconds}, range=${data?.range?.start ?? "?"}..${data?.range?.end ?? "?"}`);
-      if (data?.is_up_to_date && data.total_seconds > 0) return Math.round(data.total_seconds / 3600);
+      const res = await fetch(url, { headers });
+      const body = await res.json().catch(() => null);
+      const data = res.ok ? body?.data : null;
+      const seconds = data?.total_seconds ?? null;
+      console.log(`WakaTime attempt ${attempt}: HTTP ${res.status}, up_to_date=${data?.is_up_to_date}, seconds=${seconds}${body?.error ? `, error=${body.error}` : ""}`);
+      if (res.status === 400 || res.status === 403 || res.status === 404) return null; // settings issue, retrying won't help
+      if (data && data.is_coding_activity_visible === false) { console.log("WakaTime: coding time is hidden on the public profile"); return null; }
+      if (data?.is_up_to_date && seconds > 0) return Math.round(seconds / 3600);
     } catch (e) {
       console.log(`WakaTime attempt ${attempt} failed: ${e}`);
     }

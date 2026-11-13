@@ -21,7 +21,7 @@ jobs:
       - run: bun scripts/build.ts
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
