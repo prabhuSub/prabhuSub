@@ -22,6 +22,8 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/prabhu-subramanian/"><img src="assets/btn-linkedin.svg" width="260" alt="Connect on LinkedIn" /></a>
 
+<a href="https://github.com/sponsors/prabhuSub"><img src="https://img.shields.io/badge/Sponsor-JobTrail-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor JobTrail on GitHub" /></a>
+
 
 <a href="https://twitter.com/prabhus165"><img src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/x.svg" width="18" alt="X" /></a>
 &nbsp;&nbsp;&nbsp;
